@@ -1,0 +1,6 @@
+[Main]
+Path=H:\
+Caption=Compact Disk Drive
+Marker=PreSet,PreSet
+Picture=DVD-ROM.png <AppPath>
+Key=
