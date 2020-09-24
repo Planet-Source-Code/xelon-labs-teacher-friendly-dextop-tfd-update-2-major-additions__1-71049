@@ -1,0 +1,5 @@
+
+This Is Icons Directory 
+ Use icons of any format including *.ico , *.png , *.bmp , ...
+ Always try to use icons of less dimensions to increase dextop performance
+ 48x48 is the display size of icon 

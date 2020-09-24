@@ -1,0 +1,3 @@
+This is the whole taskbar program
+ I have made it saperately due to its complexity
+ It can run saperately only if you provide the "Capture.bas" module because it is linked to parent directory

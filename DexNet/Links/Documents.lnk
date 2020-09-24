@@ -1,0 +1,5 @@
+[Main]
+Caption=My Documents
+Path=::{450D8FBA-AD25-11D0-98A8-0800361B1103}
+Picture=My Documents.png <AppPath>
+Marker=190,74

@@ -1,0 +1,6 @@
+[Main]
+Path=C:\
+Caption=Local Drive
+Marker=PreSet,PreSet
+Picture=Hard drive.png <AppPath>
+Key=
